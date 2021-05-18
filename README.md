@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my git!
+### Hi there 👋 Welcome!
 
 😄 Si it's my nicknameand I'm a traveler! I love new cultures and to mingle with people.
 For now I'm looking for an intership in development or IT correlated areas.
