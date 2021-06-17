@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome!
 
 😄 Si it's my nickname and I'm a traveler! I love new cultures and mingle with people.
-For now I'm looking for an intership in development or IT correlated areas.
 
 🌱I'm currently learning some programming languages and I'm really excited! Despite studing backend (Java) at the University I discovered my passion for Front End, so I'm dedicating my time to learn on my own the basis (HTML, CSS and JS), after that I intend to follow the path to become a web full stack developer! I'm respecting my time of learning and trying do not feel pressure by the fast paced enviroment we are envolved! 
 
