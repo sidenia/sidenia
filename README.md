@@ -7,9 +7,9 @@ I'm respecting my time of learning and trying do not feel pressured by the fast 
 
 I share with you guys my current portifolio https://sidenia.vercel.app/ 
 
-💬 Ask me about my projects on Linkedin.
-📫 Reach me on : https://www.linkedin.com/in/sidenia-bezerra/
-⚡I love to learn and teach, so I'm here to share experiencies.
+💬 Ask me about my projects on Linkedin. <br>
+📫 Reach me on : https://www.linkedin.com/in/sidenia-bezerra/ <br>
+⚡I love to learn and teach, so I'm here to share experiencies.<br>
 
 <div>
   <a href="https://github.com/sidenia">
