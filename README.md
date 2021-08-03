@@ -1,6 +1,4 @@
-### Hi there 👋 Welcome!
-
-😄 Si it's my nickname and I'm a traveler! I love new cultures and mingle with people.
+### Hi there 👋 Welcome! 👋
 
 🌱I'm currently learning some programming languages and I'm really excited! Despite studing backend (Java) at the University I discovered my passion for Front End, so I'm dedicating my time to learn on my own the basis (HTML, CSS and JS), after that I intend to follow the path to become a web full stack developer! I'm respecting my time of learning and trying do not feel pressured by the fast paced enviroment we are envolved! 
 
@@ -10,18 +8,22 @@ I share with you guys my current portifolio https://sidenia.vercel.app/
 📫 Reach me on : https://www.linkedin.com/in/sidenia-bezerra/
 ⚡I love to learn and teach, so I'm here to share experiencies.
 
-
-<!--
-**sidenia/sidenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/sidenia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidenia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidenia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Si-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Si-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Si-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Si-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+<div>
+  <a href="https://www.instagram.com/sideniadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodriguest.victor98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-rodrigues-torres-a06802192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<br>
+![Snake animation](https://github.com/sidenia/sidenia/blob/output/github-contribution-grid-snake.svg)
