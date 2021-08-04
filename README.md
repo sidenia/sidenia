@@ -2,7 +2,7 @@
 
 🌱I'm currently working as Software Developer Intern at Itaú Unibanco! I'm learning some programming languages and really excited! 
 Despite working basically at the backend (Python, Django and DjangoRestFramewok) and studing Java at the University I discovered my passion for Front End.
-I dedicat my time to learn on my own HTML, CSS and JS, after that I intend to follow the path to become a web full stack developer! 
+I dedicat my time to learn on my own HTML, CSS and JS, following the path to become a web full stack developer! 
 I'm respecting my time of learning and trying do not feel pressured by the fast paced enviroment we are envolved! 
 
 I share with you guys my current portifolio https://sidenia.vercel.app/ 
