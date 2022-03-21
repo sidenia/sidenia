@@ -1,9 +1,8 @@
 ### Hi there 👋 Welcome! 👋
 
-🌱I'm currently working as Software Developer Intern! I'm learning some programming languages and really excited! 
-Despite working basically at the backend (Python, Django and DjangoRestFramewok) and studing Java at the University I discovered my passion for Front End.
-I dedicat my time to learn on my own HTML, CSS and JS, following the path to become a web full stack developer! 
-I'm respecting my time of learning and trying do not feel pressured by the fast paced enviroment we are envolved! 
+🌱 I am a programming student, passionate about new techs. I'm currently working as Software Developer Intern and my expertise is in web related technologies like React, Django, Django Rest Framework, Rest APi, SQL databases and others. I'm a frontend lover.
+In addition to working as an intern, I also provide services as a freelancer building web pages for private clientes. 
+I believe adaptability and acceptance of differences as strengths are the keys to success in any professional environment!
 
 I share with you guys my current portifolio https://sidenia.vercel.app/ 
 
