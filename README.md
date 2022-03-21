@@ -1,14 +1,14 @@
 ### Hi there 👋 Welcome! 👋
 
-🌱 I am a programming student, passionate about new techs. I'm currently working as Software Developer Intern and my expertise is in web related technologies like React, Django, Django Rest Framework, Rest APi, SQL databases and others. I'm a frontend lover.
-In addition to working as an intern, I also provide services as a freelancer building web pages for private clientes. 
+🌱 I am a programming student, passionate about new techs. I'm currently working as Software Developer Intern and my expertise is in web-related technologies like React, Django, Django Rest Framework, Rest APi, SQL databases and others. I'm a front-end and UX/UI lover.
+In addition to working as an intern, I also provide services as a freelancer building web pages for private clients. 
 I believe adaptability and acceptance of differences as strengths are the keys to success in any professional environment!
 
-I share with you guys my current portifolio https://sidenia.vercel.app/ 
+I share with you guys my current portfolio https://sidenia.vercel.app/ 
 
 💬 Ask me about my projects on Linkedin. <br>
 📫 Reach me on : https://www.linkedin.com/in/sidenia-bezerra/ <br>
-⚡I love to learn and teach, so I'm here to share experiencies.<br>
+⚡I love to learn and teach, so I'm here to share experiences.<br>
 
 <div>
   <a href="https://github.com/sidenia">
