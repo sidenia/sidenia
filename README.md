@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome! 👋
 
-🌱 I am a programming student, passionate about new techs. I'm currently working as Software Developer in a company and my expertise is in web-related technologies like React, Django, Django Rest Framework, Rest APi, SQL databases and others. I'm a front-end and UX/UI lover.
-In addition to working as an intern, I also provide services as a freelancer building web pages for private clients. 
+🌱 I am a programming student, passionate about new techs. I'm currently working as Software Developer in a company and my expertise is in web-related technologies like HTML, CSS, JS, React, Django, Django Rest Framework, Rest APi, SQL databases and others. I'm a front-end lover.
+In addition to working formally, I also provide services as a freelancer building web pages for private clients. 
 I believe adaptability and acceptance of differences as strengths are the keys to success in any professional environment!
 
 I share with you guys my current portfolio https://sidenia.vercel.app/ 
