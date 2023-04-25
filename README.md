@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome! 👋
 
-🌱 I am a Software Engineer, passionate about new techs. I'm currently working as Software Developer in a company and my expertise is in web-related technologies.
+🌱 I am a Software Engineer, passionate about new techs. I'm currently working in a company as a Data Engineer but my expertise is in web-related technologies.
 In addition to working formally, I also provide services as a freelancer building web pages for private clients. 
 I believe adaptability and acceptance of differences as strengths are the keys to success in any professional environment!
 
