@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome! 👋
 
-🌱 I am a Software Engineer, passionate about new techs. I'm currently working in a company as a Data Engineer but my expertise is in web-related technologies.
-In addition to working formally, I also provide services as a freelancer building web pages for private clients. 
+🌱 I am a Software Engineer, passionate about new techs. I'm currently working in at the largest private Bank of the Latin America as a Fullstack Engineer. Previously I also worked as a Data Engineer in another departament.
+I focus my studies on Python and related techs.
 I believe adaptability and acceptance of differences as strengths are the keys to success in any professional environment!
 
 💬 Ask me about my projects on Linkedin. <br>
