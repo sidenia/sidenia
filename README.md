@@ -1,8 +1,6 @@
 ### Hi there 👋 Welcome! 👋
 
-🌱 I am a Software Engineer, passionate about new techs. I'm currently working in at the largest private Bank of the Latin America as a Fullstack Engineer. Previously I also worked as a Data Engineer in another departament.
-I focus my studies on Python and web related techs.
-I believe adaptability and acceptance of differences as strengths are the keys to success in any professional environment!
+🌱 Backend Software Engineer specialized in Python, AWS, and API development. Passionate about building scalable systems and integrating AI through OpenAI and LLM APIs. Advocating for diversity in tech and always learning something new.
 
 💬 Ask me about my projects on Linkedin. <br>
 📫 Reach me on : https://www.linkedin.com/in/sidenia-bezerra/ <br>
