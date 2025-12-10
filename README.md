@@ -6,13 +6,6 @@
 📫 Reach me on : https://www.linkedin.com/in/sidenia-bezerra/ <br>
 ⚡I love to learn and teach, so I'm here to share experiences.<br>
 
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=sidenia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400&v=1" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidenia&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400&v=1" />
-</div>
-
 <p align="left">
   <img align="center" alt="Si-Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
