@@ -14,13 +14,18 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Si-Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   <img align="center" alt="Si-Django" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+     style="filter: invert(1) grayscale(1) brightness(2);"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+
   <img align="center" alt="Si-AWS" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
   <img align="center" alt="Si-Terraform" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 </div>
+
 <br>
 <div>
   <a href="https://www.instagram.com/sideniadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
